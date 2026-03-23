@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey!+I'm+Sesuraj+%F0%9F%91%8B;Frontend+Developer+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;MERN+Stack+%7C+React+%7C+Flutter+Engineer;MSc+Computer+Science+%40+Bharathiyar+University;Infosys+%26+Microsoft+Azure+Certified+%F0%9F%8F%85;Building+Responsive%2C+Performance-Driven+UIs;Open+to+Collaborate+%E2%80%94+Let%27s+Build+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey!+I'm+Sesuraj+%F0%9F%91%8B;Frontend+Developer+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;React.js+%7C+MERN+Stack+Developer;MSc+Computer+Science+%40+Bharathiyar+University;Infosys+%26+Microsoft+Azure+Certified+%F0%9F%8F%85;Building+Responsive%2C+Performance-Driven+UIs;Open+to+Collaborate+%E2%80%94+Let%27s+Build+%F0%9F%A4%9D" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -29,7 +29,7 @@
 
 ## 🧬 About Me
 
-```ts
+```javascript
 const sesuraj = {
   name        : "Sesuraj I",
   degree      : "MSc Computer Science — Bharathiyar University (CGPA: 8.9)",
